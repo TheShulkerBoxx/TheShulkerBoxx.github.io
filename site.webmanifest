@@ -1,0 +1,17 @@
+{
+  "name": "Shivek",
+  "short_name": "Shivek",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0D17",
+  "theme_color": "#3B82F6",
+  "description": "Portfolio of Shivek - Developer & Creator.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
